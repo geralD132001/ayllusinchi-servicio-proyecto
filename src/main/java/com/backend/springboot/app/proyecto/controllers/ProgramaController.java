@@ -12,7 +12,6 @@ import java.util.HashMap;
 import java.util.List;
 
 @CrossOrigin(origins = { "https://ayllusinchis-app.azurewebsites.net" })
-
 @RestController
 @RequestMapping("/programa")
 public class ProgramaController {
