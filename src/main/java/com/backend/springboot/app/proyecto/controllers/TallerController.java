@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.HashMap;
 import java.util.List;
 
-@CrossOrigin(origins = {"http://localhost:4200"})
+@CrossOrigin(origins = { "https://ayllusinchis-app.azurewebsites.net" })
 @RestController
 @RequestMapping("taller")
 public class TallerController {
